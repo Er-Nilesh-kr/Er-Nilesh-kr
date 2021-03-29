@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/er-nilesh-kr" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616928097~hmac=25f67b93e01fbb516ea65702cb5bdfe1" alt="er-nilesh-kr" height="30" width="40" /></a>
-<a href="https://instagram.com/iam__nilesh_" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1616928252~hmac=abb794de050fc3b21ed719f6373991e7" alt="iam__nilesh_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/er-nilesh-kr" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="er-nilesh-kr" height="30" width="40" /></a>
+<a href="https://instagram.com/iam__nilesh_" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="iam__nilesh_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
