@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilesh 😄</h1>
 <h3 align="center">Flutter Developer | Front End Web Developer | DSC Core Team Member @DSCQU | Placement Coordinator | Cyber-Security Enthusiast</h3>
 
-<img align="right" alt="GIF" src="https://github.com/tech-virat/assets/blob/main/ezgif-6-1d4d2a59206e.gif" width="356px" border-radius="50px" />
+<img align="right" alt="GIF" src="https://github.com/tech-virat/assets/blob/main/code.gif" width="356px" border-radius="50px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=er-nilesh-kr&label=Profile%20views&color=0e75b6&style=flat" alt="er-nilesh-kr" /> </p>
 
