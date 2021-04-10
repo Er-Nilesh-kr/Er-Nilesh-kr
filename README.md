@@ -11,12 +11,15 @@
 
 - 📫 How to reach me **mailtonilesh.dev@gmail.com**
 
+- 😉 Check out my <a href="https://er-nilesh-kr.github.io/" target="blank">Portfolio</a> website here. 
+
 - ⚡ Fun fact **Tech Geek Without Specs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/er-nilesh-kr" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="er-nilesh-kr" height="30" width="40" /></a>
 <a href="https://instagram.com/iam__nilesh_" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="iam__nilesh_" height="30" width="40" /></a>
+<a href="https://twitter.com/iamnilesh24" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="iam__nilesh_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
