@@ -13,7 +13,7 @@
 
 - 😉 Check out my <a href="https://er-nilesh-kr.github.io/" target="blank">Portfolio</a> website here. 
 
-- ⚡ Fun fact **Tech Geek Without Specs**
+- ⚡ Fun fact: **There are 10 kinds of people — those who understand binary and those who don’t.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
