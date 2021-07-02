@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh 😄</h1>
-<h3 align="center">Flutter Developer | Front End Web Developer | DSC Core Team Member @DSCQU | Placement Coordinator | Cyber-Security Enthusiast</h3>
+<h3 align="center">Flutter Developer | Google Cloud Career Readiness Student Mentor | Front End Web Developer | DSC Core Team Member @DSCQU | Placement Coordinator | Cloud & Cyber-Sec Enthusiast</h3>
 
 <img align="right" alt="GIF" src="https://github.com/tech-virat/assets/blob/main/code.gif" width="310px" border-radius="50px" />
 
